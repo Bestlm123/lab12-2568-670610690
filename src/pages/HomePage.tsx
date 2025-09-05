@@ -116,7 +116,7 @@ export default function HomePage() {
                   )}
                   {/* แสดง Date & Time */}
                   {task.isDone && task.doneDate && (
-                    <Text size="xs" c="Dechatorn">
+                    <Text size="xs" c="Nattapat">
                       Done at: {task.doneDate.toLocaleDateString()},{" "}
                       {task.doneDate.toLocaleTimeString()}
                     </Text>

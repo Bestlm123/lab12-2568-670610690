@@ -14,8 +14,8 @@ const theme = createTheme({
     }),
     Nattapat: virtualColor({
       name: "Nattapat",
-      dark: "green",
-      light: "yellow",
+      dark: "yellow",
+      light: "violet",
     }),
   },
 });
